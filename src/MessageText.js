@@ -2,7 +2,7 @@ import  React from 'react'
 import { useState } from 'react'
 
 const MessageText = () => {
-    const [message,setMessage] = useState('welcome to react')
+    const [message,setMessage] = useState('welcome to vinod')
   return (
     <div>
         <p>{message}</p>
